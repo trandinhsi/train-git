@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Login from '../src/SiTD/Login';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <div>HI cac cau</div>
-      </header>
+      <Login/>
+      
     </div>
   );
 }
